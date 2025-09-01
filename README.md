@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Anthony  
 
-<!--
-**antgotgithub/antgotgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring **Cybersecurity Professional** | 🎓 IT Student @ St. Francis College (Class of 2027)  
+📍 Based in New York | 🔐 Interested in SOC, Active Directory, and Cloud Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+- Build **labs in Azure & VirtualBox** (Active Directory, SIEM, honeypots, GPOs).  
+- Write **PowerShell scripts** for automation in AD.  
+- Explore **SOC workflows** (threat detection, log analysis, incident response).  
+
+---
+
+### 🛠️ Tech I Use
+- **Security & Monitoring:** CrowdStrike, Mimecast, Zscaler, Arctic Wolf  
+- **Systems & Networking:** Active Directory, Azure, Wireshark, Windows Server, Linux  
+- **Languages:** PowerShell, Python, C++  
+
+---
+
+### 🎯 Current Goals
+- Strengthening my **cybersecurity fundamentals** through labs & certs  
+- Preparing for entry-level **SOC analyst** opportunities  
+- Expanding my skills in **cloud security**  
+
+---
+
+### 📫 Connect
+- **Email:** antdeangelis2@gmail.com  
+- **LinkedIn:** [linkedin.com/in/anthonydeangelis](https://www.linkedin.com/in/anthonydeangelis)  
