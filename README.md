@@ -1,31 +1,30 @@
-# 👋 Hey, I'm Anthony  
+# Hey, I'm Anthony  
 
-💻 Aspiring **Cybersecurity Professional** | 🎓 IT Student @ St. Francis College (Class of 2027)  
-📍 Based in New York | 🔐 Interested in SOC, Active Directory, and Cloud Security  
-
----
-
-### 🔧 What I Do
-- Build **labs in Azure & VirtualBox** (Active Directory, SIEM, honeypots, GPOs).  
-- Write **PowerShell scripts** for automation in AD.  
-- Explore **SOC workflows** (threat detection, log analysis, incident response).  
+Aspiring **Cybersecurity Professional** | IT Student @ St. Francis College (Class of 2027)  
+Based in New York | Interested in entry-level cybersecurity and sysadmin roles  
 
 ---
 
-### 🛠️ Tech I Use
+### Labs and Projects
+- Built labs in **Azure & VirtualBox** (Active Directory, SIEM, honeypots, GPOs)  
+- Wrote **PowerShell scripts** for automation in AD  
+- Explored **SOC workflows** (threat detection, log analysis, incident response)  
+
+---
+
+### Tech I Use
 - **Security & Monitoring:** CrowdStrike, Mimecast, Zscaler, Arctic Wolf  
 - **Systems & Networking:** Active Directory, Azure, Wireshark, Windows Server, Linux  
 - **Languages:** PowerShell, Python, C++  
 
 ---
 
-### 🎯 Current Goals
-- Strengthening my **cybersecurity fundamentals** through labs & certs  
-- Preparing for entry-level **SOC analyst** opportunities  
-- Expanding my skills in **cloud security**  
+### Certifications
+- CompTIA Network+ (2025)  
+- CompTIA Security+ (2025)  
 
 ---
 
-### 📫 Connect
+### Connect
 - **Email:** antdeangelis2@gmail.com  
-- **LinkedIn:** [linkedin.com/in/anthonydeangelis](https://www.linkedin.com/in/anthonydeangelis)  
+- **LinkedIn:** https://www.linkedin.com/in/anthony-deangelis-641540158)  
