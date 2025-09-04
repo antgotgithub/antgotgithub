@@ -27,4 +27,4 @@ Based in New York | Interested in entry-level cybersecurity and sysadmin roles
 
 ### Connect
 - **Email:** antdeangelis2@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/anthony-deangelis-641540158)  
+- **LinkedIn:** https://www.linkedin.com/in/anthony-deangelis-641540158
