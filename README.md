@@ -1,34 +1,39 @@
-Anthony DeAngelis
+# Anthony DeAngelis
 
-Aspiring Cybersecurity Professional
-IT Student @ St. Francis College, Class of 2027
-Based in New York | Focused on entry-level roles in cybersecurity and systems administration
+Cloud Security | Identity & Access Management | Automation
 
-⸻
+I am an Information Technology student and Network Operations / Security Operations Intern at Willkie Farr & Gallagher. I build practical cloud, identity, networking, and security-operations skills through enterprise work and hands-on labs. My focus is securing Azure environments, applying least privilege, automating repeatable infrastructure, and improving detection and response.
 
-Labs and Projects
-	•	Designed and deployed virtual labs in Azure and VirtualBox (Active Directory, SIEM, honeypots, and GPO configurations).
-	•	Automated administrative tasks with PowerShell, streamlining user and system management.
-	•	Explored SOC workflows, focusing on threat detection, log analysis, and incident response procedures.
+## Focus areas
 
-⸻
+- Azure security and identity: Entra ID, Azure RBAC, Azure Policy, Microsoft Sentinel, and SC-300-aligned IAM practices
+- Infrastructure as code and automation: Terraform, Bicep, GitHub Actions, PowerShell, Bash, Python, and KQL
+- Secure networking: VNets, NSGs, UDRs, hub-and-spoke design, Azure Firewall, VPN, DNS, DHCP, and Active Directory
+- Security operations: SIEM investigations, phishing analysis, vulnerability remediation, incident documentation, and SOAR automation
 
-Technical Skills
+## Selected projects
 
-Security & Monitoring: CrowdStrike, Mimecast, Zscaler, Arctic Wolf
-Systems & Networking: Active Directory, Azure, Wireshark, Windows Server, Linux
-Programming & Scripting: PowerShell, Python, C++, Bash
+### Azure Enterprise HomeLab
 
-⸻
+An Azure environment provisioned with Terraform, using segmented networks, NSGs, UDRs, and Key Vault. A GitHub Actions pipeline runs formatting and planning, with secrets and manual approval protecting deployment. The lab includes a Windows Server 2022 domain controller, an AGDLP group model, PowerShell AD administration, and an Ubuntu server joined to Active Directory with Kerberos, sssd, and Samba.
 
-Certifications
-	•	CompTIA Network+ (2025)
-	•	CompTIA Security+ (2025)
+### Azure Cloud Security Lab
 
-⸻
+A Bicep-built hub-and-spoke network that routes traffic through a central inspection point. Microsoft Sentinel detections use KQL to identify anomalous logins and privilege escalation, while Logic Apps supports response workflows. The SOC lab combines Wazuh, TheHive, and Shuffle SOAR for alert triage and REST API-driven automation.
 
-Connect
+## Certifications
 
-Email: antdeangelis2@gmail.com￼
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- CompTIA Security+
+- CompTIA Network+
 
-LinkedIn: linkedin.com/in/anthony-deangelis
+## Currently building
+
+More Azure security automation, identity governance, detection engineering, and well-documented home-lab projects. Explore the repositories below for infrastructure code, security tooling, and project notes.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/anthony-deangelis/)
+- Email: antdeangelis2@gmail.com
