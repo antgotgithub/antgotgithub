@@ -13,11 +13,15 @@ I am an Information Technology student and Network Operations / Security Operati
 
 ## Featured Projects
 
-### [Azure Enterprise HomeLab](https://github.com/YOUR-USERNAME/YOUR-REPO)
-Terraform-provisioned Azure environment with segmented networking, Active Directory, GitHub Actions CI/CD, and a Linux server joined to the domain.
+###  [Azure Cloud Security Lab](https://github.com/Anthonydeangelis/hybridhomelab)
+An enterprise-style homelab that demonstrates how on-premises Active Directory, Microsoft Entra ID, private application access, Windows and Linux administration, centralized monitoring, and infrastructure as code fit together. Core services run on a private Proxmox network. Selected identities synchronize to Microsoft Entra ID, approved users reach an internal application through Entra Application Proxy, and Windows and Linux events are collected and tested with Wazuh.
 
-### [Azure Cloud Security Lab](https://github.com/YOUR-USERNAME/YOUR-REPO)
-Hub-and-spoke Azure security lab using Bicep, Microsoft Sentinel, KQL detections, Logic Apps, Wazuh, TheHive, and Shuffle SOAR.
+
+### [Azure Enterprise HomeLab](https://github.com/Anthonydeangelis/Azure_AD_Linux_Terraform-Project)
+A fully automated, Infrastructure-as-Code Azure homelab simulating a real corporate network environment. Built to develop hands-on skills in cloud networking, Active Directory administration, Linux systems management, and DevOps practices.
+
+### [Sentinel Project](https://github.com/Anthonydeangelis/Azure-Microsoft-Sential-Lab)
+Simulate a real world attacks and threat response via Microsoft Sentinel. 
 
 ## Certifications
 
