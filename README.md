@@ -2,7 +2,7 @@
 
 Cloud Security | Identity & Access Management | Automation
 
-I am an Information Technology student and Network Operations / Security Operations Intern at Willkie Farr & Gallagher. I build practical cloud, identity, networking, and security-operations skills through enterprise work and hands-on labs. My focus is securing Azure environments, applying least privilege, automating repeatable infrastructure, and improving detection and response.
+I am an Information Technology student @St. Francis College and  a Network Operations / Security Operations Intern at Willkie Farr & Gallagher where I do windows admin work, monitor and investigate security alerts, and work on various projects. I build practical cloud, identity, networking, and security-operations skills through enterprise work and hands-on labs. My focus is securing Azure environments, applying least privilege, automating repeatable infrastructure, and improving detection and response.
 
 ## Focus areas
 
