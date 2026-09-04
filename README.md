@@ -11,15 +11,13 @@ I am an Information Technology student and Network Operations / Security Operati
 - Secure networking: VNets, NSGs, UDRs, hub-and-spoke design, Azure Firewall, VPN, DNS, DHCP, and Active Directory
 - Security operations: SIEM investigations, phishing analysis, vulnerability remediation, incident documentation, and SOAR automation
 
-## Selected projects
+## Featured Projects
 
-### Azure Enterprise HomeLab
+### [Azure Enterprise HomeLab](https://github.com/YOUR-USERNAME/YOUR-REPO)
+Terraform-provisioned Azure environment with segmented networking, Active Directory, GitHub Actions CI/CD, and a Linux server joined to the domain.
 
-An Azure environment provisioned with Terraform, using segmented networks, NSGs, UDRs, and Key Vault. A GitHub Actions pipeline runs formatting and planning, with secrets and manual approval protecting deployment. The lab includes a Windows Server 2022 domain controller, an AGDLP group model, PowerShell AD administration, and an Ubuntu server joined to Active Directory with Kerberos, sssd, and Samba.
-
-### Azure Cloud Security Lab
-
-A Bicep-built hub-and-spoke network that routes traffic through a central inspection point. Microsoft Sentinel detections use KQL to identify anomalous logins and privilege escalation, while Logic Apps supports response workflows. The SOC lab combines Wazuh, TheHive, and Shuffle SOAR for alert triage and REST API-driven automation.
+### [Azure Cloud Security Lab](https://github.com/YOUR-USERNAME/YOUR-REPO)
+Hub-and-spoke Azure security lab using Bicep, Microsoft Sentinel, KQL detections, Logic Apps, Wazuh, TheHive, and Shuffle SOAR.
 
 ## Certifications
 
@@ -28,10 +26,6 @@ A Bicep-built hub-and-spoke network that routes traffic through a central inspec
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - CompTIA Security+
 - CompTIA Network+
-
-## Currently building
-
-More Azure security automation, identity governance, detection engineering, and well-documented home-lab projects. Explore the repositories below for infrastructure code, security tooling, and project notes.
 
 ## Connect
 
